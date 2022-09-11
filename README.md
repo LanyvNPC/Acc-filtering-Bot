@@ -11,5 +11,5 @@
 <strong>토큰 리셋했으니까 로그인해보지 마세요...</strong>
 
 # Discord Tag
-<img src="https://img.shields.io/badge/Linvy#1463-5865F2?style=flat-square&logo=discord&logoColor=white"/>
-<img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>Busy Blue#1280
+<img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>Linvy#1463
