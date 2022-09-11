@@ -7,7 +7,9 @@
 
 
 
+
 <strong>토큰 리셋했으니까 로그인해보지 마세요...</strong>
 
-# My Discord
-![My Discord](https://discord-readme-badge.vercel.app/api?id=972486216786268181) 
+# Discord Tag
+<img src="https://img.shields.io/badge/Linvy#1463-5865F2?style=flat-square&logo=discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/Busy Blue#1280-5865F2?style=flat-square&logo=discord&logoColor=white"/>
