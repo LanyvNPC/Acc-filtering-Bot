@@ -12,4 +12,4 @@
 
 # Discord Tag
 <img src="https://img.shields.io/badge/Linvy#1463-5865F2?style=flat-square&logo=discord&logoColor=white"/>
-<img src="https://img.shields.io/badge/Busy Blue#1280-5865F2?style=flat-square&logo=Discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/>
