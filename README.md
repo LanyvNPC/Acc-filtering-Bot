@@ -12,4 +12,7 @@
 
 # Discord Tag
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>Busy Blue#1280
+
+
+
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>Linvy#1463
